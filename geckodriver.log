@@ -1,0 +1,1647 @@
+1673882247319	geckodriver	INFO	Listening on 127.0.0.1:4088
+1673882250375	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "4089" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileHFWjWg"
+1673882251546	Marionette	INFO	Marionette enabled
+1673882251562	Marionette	INFO	Listening on port 4116
+Read port: 4116
+WebDriver BiDi listening on ws://127.0.0.1:4089
+1673882251980	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileHFWjWg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:4089/devtools/browser/79a744e9-65d2-4fe4-b7d0-3f349c06b844
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.d471bec2c1cbe889e556.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 404
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.d471bec2c1cbe889e556.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 404
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.d471bec2c1cbe889e556.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 404
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.d471bec2c1cbe889e556.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 404
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.d471bec2c1cbe889e556.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 404
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.d471bec2c1cbe889e556.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 404
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.d471bec2c1cbe889e556.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 404
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.d471bec2c1cbe889e556.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 404
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/app.55d1fa5d8616bab5fb40.js, line 1: TypeError: e is undefined
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.d471bec2c1cbe889e556.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 404
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.d471bec2c1cbe889e556.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 404
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/app.55d1fa5d8616bab5fb40.js, line 1: TypeError: e is undefined
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.d471bec2c1cbe889e556.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 404
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.d471bec2c1cbe889e556.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 404
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.d471bec2c1cbe889e556.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 404
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.d471bec2c1cbe889e556.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 404
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.d471bec2c1cbe889e556.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 404
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.d471bec2c1cbe889e556.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 404
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.d471bec2c1cbe889e556.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 404
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.d471bec2c1cbe889e556.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 404
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.d471bec2c1cbe889e556.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 404
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.d471bec2c1cbe889e556.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 404
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.d471bec2c1cbe889e556.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 404
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.d471bec2c1cbe889e556.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 404
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.d471bec2c1cbe889e556.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 404
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.d471bec2c1cbe889e556.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 404
+JavaScript error: https://www.expedia.ie/Flight-Information?journeyContinuationId=AQrWAgqfAnY1LXNvcy0wYWU0Zjg4YTFjNzQ4MDY3MTg1NmQ0NjI2YzgzOWRmYi0xMi0xfjIuU35BUW9DQ0Q4U0J3aW9YQkFCR0E4b0FsZ0JjQUF-QVFwLUNpY0kxWllCRWdNNE16Z1lEQ0NEV1NpbnVhSUNNTnU2b2dJNFMwQUFXQUZxQjBWRFQwWk1SVmdLS0FqQnRBRVNBemMyT1JpRFdTREZjQ2k4dktJQ01NN0FvZ0k0UWtBQldBRnFCMFZEVDBaTVJWZ0tLUWpCdEFFU0JERXpPVEVZeFhBZ3hnTW9fc1NpQWpDX3hhSUNPRUpBQVZnQmFnZEZRMDlHVEVWWUVnb0lBUkFCR0FFcUFrRmFHQUVpQkFnQkVBRW9BaWdFS0FZd0FREfYoXI_COZBAGiIIARIOCgdQVDNINDVNEgNERUwSDgoHUFQ5SDIwTRIDRkNPKgUSAwoBMRInChYKCjIwMjMtMDEtMTgSA01BQRoDR09BEgcSBUNPQUNIGgIQASABIAEyCwj___________8B, line 4: Error: ES Modules may not assign module.exports or exports.*, Use ESM export syntax, instead: 51447
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.d471bec2c1cbe889e556.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 404
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.d471bec2c1cbe889e556.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 404
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KJeI0sMyo1Q6mjhDM9mKcjS2IqRt95c1wIDqLysfd0M.js line 2 > eval line 4804 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: /api/uisprime/track, line 2: Error: Could not connect to 
+JavaScript error: /api/uisprime/track, line 2: Error: Could not connect to 
+1673893599086	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1674022198982	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1677602032637	geckodriver	INFO	Listening on 127.0.0.1:11009
+1677602035824	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "11010" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileTZLY9N"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677602036707	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677602036719	Marionette	INFO	Listening on port 11024
+Read port: 11024
+WebDriver BiDi listening on ws://127.0.0.1:11010
+1677602037027	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileTZLY9N\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:11010/devtools/browser/1c188e53-eb84-425d-b1fe-413d6552de2a
+JavaScript error: , line 0: uncaught exception: Could not clear consent from root domain.
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+1677602091396	geckodriver	INFO	Listening on 127.0.0.1:11168
+1677602094458	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "11169" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofiledJix7O"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677602095015	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677602095024	Marionette	INFO	Listening on port 11180
+Read port: 11180
+WebDriver BiDi listening on ws://127.0.0.1:11169
+1677602095247	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofiledJix7O\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:11169/devtools/browser/04b4eb45-ea2e-42a4-b776-70d1b48a0238
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+1677602108535	Marionette	INFO	Stopped listening on port 11180
+Dynamically enable window occlusion 1
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1677602140485	geckodriver	INFO	Listening on 127.0.0.1:11298
+1677602143549	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "11299" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilexaP0RE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677602144067	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677602144075	Marionette	INFO	Listening on port 11311
+Read port: 11311
+WebDriver BiDi listening on ws://127.0.0.1:11299
+1677602144271	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilexaP0RE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:11299/devtools/browser/a7e30cf3-6105-4905-a798-56f7337c26ab
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+1677602167845	Marionette	INFO	Stopped listening on port 11311
+Dynamically enable window occlusion 1
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1677602324185	geckodriver	INFO	Listening on 127.0.0.1:11638
+1677602327241	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "11639" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileICb7HE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677602327915	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677602327924	Marionette	INFO	Listening on port 11653
+Read port: 11653
+WebDriver BiDi listening on ws://127.0.0.1:11639
+1677602328158	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileICb7HE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:11639/devtools/browser/26c8728d-fd04-4157-a194-0c34f8aa27d5
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://www.expedia.ie/Flight-Information?journeyContinuationId=AQqzAQqgAXY1LXNvcy00NTI5YjYxNmFmMjQ4MTdiNzFhNTUyODczMWI0YmY0Yi01LTUxMn4yLlN-QVFvQ0NEOFNCd2lvWEJBQkdBOG9BbGdCY0FBfkFRb2lDaUFJdG9vQkVnUTJNREUwR01LZ0FTQU1LTHVqcGdJd3dxU21BamhTUUFCWUFSSUtDQXNRQVJnSUtnSTJSUmdCSWdRSUFSQUJLQUl3QXcRw_UoXI_yVkAqBRIDCgExEicKFgoKMjAyMy0wMy0wMxIDQ0NVGgNNQUESBxIFQ09BQ0gaAhABIAEgATILCP___________wE%3D, line 5: Error: ES Modules may not assign module.exports or exports.*, Use ESM export syntax, instead: 51447
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://www.expedia.ie/Flight-Information?journeyContinuationId=AQqzAQqgAXY1LXNvcy00NTI5YjYxNmFmMjQ4MTdiNzFhNTUyODczMWI0YmY0Yi01LTUxMn4yLlN-QVFvQ0NEOFNCd2lvWEJBQkdBOG9BbGdCY0FBfkFRb2lDaUFJdG9vQkVnUTJNREUwR01LZ0FTQU1LTHVqcGdJd3dxU21BamhTUUFCWUFSSUtDQXNRQVJnSUtnSTJSUmdCSWdRSUFSQUJLQUl3QXcRw_UoXI_yVkAqBRIDCgExEicKFgoKMjAyMy0wMy0wMxIDQ0NVGgNNQUESBxIFQ09BQ0gaAhABIAEgATILCP___________wE%3D, line 5: Error: ES Modules may not assign module.exports or exports.*, Use ESM export syntax, instead: 51447
+1677602427098	geckodriver	INFO	Listening on 127.0.0.1:11848
+1677602430209	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "11849" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile3EFM1L"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677602430727	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677602430733	Marionette	INFO	Listening on port 11860
+Read port: 11860
+WebDriver BiDi listening on ws://127.0.0.1:11849
+1677602430910	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile3EFM1L\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:11849/devtools/browser/ee1549b7-c81d-4da4-959c-a8bfdc2da677
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+1677602449550	Marionette	INFO	Stopped listening on port 11860
+Dynamically enable window occlusion 1
+1677603199814	geckodriver	INFO	Listening on 127.0.0.1:13297
+1677603202970	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "13298" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileQ8fbHF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677603203615	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677603203623	Marionette	INFO	Listening on port 13309
+Read port: 13309
+WebDriver BiDi listening on ws://127.0.0.1:13298
+1677603203789	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileQ8fbHF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:13298/devtools/browser/0cd09f1b-6574-4329-82a6-bdc8034399a8
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+1677603222676	Marionette	INFO	Stopped listening on port 13309
+Dynamically enable window occlusion 1
+1677603334438	geckodriver	INFO	Listening on 127.0.0.1:13554
+1677603337523	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "13555" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilem9qrbU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677603337895	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677603337901	Marionette	INFO	Listening on port 13566
+Read port: 13566
+WebDriver BiDi listening on ws://127.0.0.1:13555
+1677603338056	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilem9qrbU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:13555/devtools/browser/96d57b57-92ad-479e-8cff-c1a00a63332d
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+1677603356980	Marionette	INFO	Stopped listening on port 13566
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+Dynamically enable window occlusion 1
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+1677604672938	geckodriver	INFO	Listening on 127.0.0.1:5409
+1677604676068	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "5410" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilee4Ezst"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677604676961	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677604676972	Marionette	INFO	Listening on port 5423
+Read port: 5423
+WebDriver BiDi listening on ws://127.0.0.1:5410
+1677604677246	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilee4Ezst\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:5410/devtools/browser/b2494775-9227-4122-8c27-1847fb9fc4eb
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://www.expedia.ie/Flight-Information?journeyContinuationId=AQr1AQrOAXY1LXNvcy02MGFhMjgzZjU3ZjIwYWRhMjllYmQ0OGRiMDNkN2NkNS0yOC01MTJ-Mi5TfkFRb0NDRDhTQndpb1hCQUJHQThvQWxnQmNBQX5BUXBFQ2g4SXRvb0JFZ1EyT1RJMUdBd2doeDRvMWVlbUFqQ2c2S1lDT0ZKQUFGZ0JDaUVJdG9vQkVnUTJPVEEzR0ljZUlNS2dBU2ptNktZQ01ON3BwZ0k0VWtBQVdBRVNDZ2dMRUFFWUNDb0NOa1VZQVNJRUNBRVFBU2dDTUFNEVyPwvUonFNAGhIIARIOCgdQVDFIMTBNEgNIWUQqBRIDCgExEicKFgoKMjAyMy0wMy0wORIDTUFBGgNDQ1USBxIFQ09BQ0gaAhABIAEgATILCP___________wE%3D, line 5: Error: ES Modules may not assign module.exports or exports.*, Use ESM export syntax, instead: 51447
+1677604702433	Marionette	INFO	Stopped listening on port 5423
+Dynamically enable window occlusion 1
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1677605764789	geckodriver	INFO	Listening on 127.0.0.1:7403
+1677605767864	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "7404" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileXGhgFi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677605768828	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677605768839	Marionette	INFO	Listening on port 7419
+Read port: 7419
+WebDriver BiDi listening on ws://127.0.0.1:7404
+1677605769074	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileXGhgFi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:7404/devtools/browser/3b06f12b-3153-4c24-b096-2a91912cf1bc
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://www.expedia.ie/Flight-Information?journeyContinuationId=AQr2AQrPAXY1LXNvcy00OGRkN2NiZWQyZmU5NDkyNzJhOTkyZTI5ZWNhZWQ3MS0yNC01MTJ-Mi5TfkFRb0NDRDhTQndpb1hCQUJHQThvQWxnQmNBQX5BUXBGQ2lFSXRvb0JFZ00wT1RZWXdxQUJJT0dLQVNpUTVhWUNNTFhtcGdJNFUwQUFXQUVLSUFpMmlnRVNCRFl4TXprWTRZb0JJQXdvaXVlbUFqREw1NllDT0ZOQUFGZ0JFZ29JQ3hBQkdBZ3FBalpGR0FFaUJBZ0JFQUVvQWpBRBHhehSuR_FVQBoSCAESDgoHUFQxSDI1TRIDQkxSKgUSAwoBMRInChYKCjIwMjMtMDMtMDkSA0NDVRoDTUFBEgcSBUNPQUNIGgIQASABIAEyCwj___________8B, line 5: Error: ES Modules may not assign module.exports or exports.*, Use ESM export syntax, instead: 51447
+1677605793850	Marionette	INFO	Stopped listening on port 7419
+Dynamically enable window occlusion 1
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1679645549666	geckodriver	INFO	Listening on 127.0.0.1:1203
+1679645552704	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1204" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileSPYpT2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679645553306	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679645553312	Marionette	INFO	Listening on port 1220
+Read port: 1220
+WebDriver BiDi listening on ws://127.0.0.1:1204
+1679645553477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileSPYpT2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1204/devtools/browser/d28f159e-5b04-4770-924e-50702638f82a
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.8015c07f0e3b52dafce0.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.8015c07f0e3b52dafce0.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.8015c07f0e3b52dafce0.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.8015c07f0e3b52dafce0.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.8015c07f0e3b52dafce0.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.8015c07f0e3b52dafce0.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.8015c07f0e3b52dafce0.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.8015c07f0e3b52dafce0.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.8015c07f0e3b52dafce0.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.8015c07f0e3b52dafce0.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.8015c07f0e3b52dafce0.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.8015c07f0e3b52dafce0.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+1679645571428	Marionette	INFO	Stopped listening on port 1220
+Dynamically enable window occlusion 1
+[Parent 18984, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+1680361270622	geckodriver	INFO	Listening on 127.0.0.1:32595
+1680361274139	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "32596" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileW4IYkn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680361276183	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680361276189	Marionette	INFO	Listening on port 32611
+WebDriver BiDi listening on ws://127.0.0.1:32596
+Read port: 32611
+1680361276366	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileW4IYkn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:32596/devtools/browser/8e839ddb-b453-4663-b243-3f58f1d50722
+JavaScript error: https://www.expedia.ie/Flights-Search?trip=oneway&leg1=from:chennai,to:goa,departure:03/04/2023TANYT&passengers=adults:1,children:0,seniors:0,infantinlap:Y&options=cabinclass:economy&mode=search&origref=www.expedia.ie, line 5: Error: ES Modules may not assign module.exports or exports.*, Use ESM export syntax, instead: 51447
+1680361289915	Marionette	INFO	Stopped listening on port 32611
+Dynamically enable window occlusion 1
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1680361322295	geckodriver	INFO	Listening on 127.0.0.1:32712
+1680361325359	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "32713" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile2nDU5i"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680361325773	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680361325779	Marionette	INFO	Listening on port 32724
+Read port: 32724
+WebDriver BiDi listening on ws://127.0.0.1:32713
+1680361325900	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile2nDU5i\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:32713/devtools/browser/43092535-5b18-4723-8d2b-dc2fcd6217f4
+JavaScript error: https://www.expedia.ie/Flights-Search?trip=oneway&leg1=from:london,to:dubai,departure:23/04/2023TANYT&passengers=adults:1,children:0,seniors:0,infantinlap:Y&options=cabinclass:economy&mode=search&origref=www.expedia.ie, line 5: Error: ES Modules may not assign module.exports or exports.*, Use ESM export syntax, instead: 51447
+1680361340831	Marionette	INFO	Stopped listening on port 32724
+Dynamically enable window occlusion 1
+1680362628917	geckodriver	INFO	Listening on 127.0.0.1:1515
+1680362631920	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1516" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofiles62mHK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680362632720	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680362632728	Marionette	INFO	Listening on port 1527
+Read port: 1527
+WebDriver BiDi listening on ws://127.0.0.1:1516
+1680362632901	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofiles62mHK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1516/devtools/browser/9eade26f-1e40-4c85-a485-978ea409adf2
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=4d299fcc801bc8e6b4f049ab65f96b69dddf6e48-frpreducers&cluster=5&tag=common/personalization/saving/react/TripsDrawerWrapper, line 366: unreachable code after return statement
+1680362649677	Marionette	INFO	Stopped listening on port 1527
+Dynamically enable window occlusion 1
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1680363089769	geckodriver	INFO	Listening on 127.0.0.1:2177
+1680363092827	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2178" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileVRGp45"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680363093628	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680363093637	Marionette	INFO	Listening on port 2191
+Read port: 2191
+WebDriver BiDi listening on ws://127.0.0.1:2178
+1680363093908	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileVRGp45\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:2178/devtools/browser/16c4e468-f13d-4632-8344-4f11f1889f5e
+1680363116570	Marionette	INFO	Stopped listening on port 2191
+Dynamically enable window occlusion 1
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1680421071773	geckodriver	INFO	Listening on 127.0.0.1:1658
+1680421074783	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1659" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileofdngA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680421076330	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680421076341	Marionette	INFO	Listening on port 1673
+Read port: 1673
+WebDriver BiDi listening on ws://127.0.0.1:1659
+1680421076605	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileofdngA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1659/devtools/browser/54b01ac6-31f6-4be7-86e2-d465a8a46f9e
+JavaScript error: https://www.expedia.ie/Flights-Search?trip=oneway&leg1=from:dubai,to:london,departure:23/04/2023TANYT&passengers=adults:1,children:0,seniors:0,infantinlap:Y&options=cabinclass:economy&mode=search&origref=www.expedia.ie, line 5: Error: ES Modules may not assign module.exports or exports.*, Use ESM export syntax, instead: 51447
+1680421095852	Marionette	INFO	Stopped listening on port 1673
+Dynamically enable window occlusion 1
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1680430583555	geckodriver	INFO	Listening on 127.0.0.1:2633
+1680430586651	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2634" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileankjCf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680430587675	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680430587681	Marionette	INFO	Listening on port 2648
+Read port: 2648
+WebDriver BiDi listening on ws://127.0.0.1:2634
+1680430587975	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileankjCf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:2634/devtools/browser/58ec3d9d-055d-4ba1-821a-db5ab2b8ba44
+1680430673270	geckodriver	INFO	Listening on 127.0.0.1:2806
+1680430676254	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2807" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile9s6Wkf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680430676839	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680430676844	Marionette	INFO	Listening on port 2818
+Read port: 2818
+WebDriver BiDi listening on ws://127.0.0.1:2807
+1680430676976	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile9s6Wkf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:2807/devtools/browser/70242511-e2ff-42be-9b25-1f0d75e12eb8
+1680430733909	Marionette	INFO	Stopped listening on port 2818
+Dynamically enable window occlusion 1
+1680430761847	geckodriver	INFO	Listening on 127.0.0.1:2987
+1680430764938	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2988" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileftA5y6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680430765298	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680430765304	Marionette	INFO	Listening on port 2999
+Read port: 2999
+WebDriver BiDi listening on ws://127.0.0.1:2988
+1680430765437	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileftA5y6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:2988/devtools/browser/0ca275d9-6901-499c-b0eb-1f961a77c0cd
+1680430821096	Marionette	INFO	Stopped listening on port 2999
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+1680430935409	geckodriver	INFO	Listening on 127.0.0.1:3342
+1680430938489	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "3343" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileY2qKy5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680430938934	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680430938942	Marionette	INFO	Listening on port 3351
+Read port: 3351
+WebDriver BiDi listening on ws://127.0.0.1:3343
+1680430939123	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileY2qKy5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:3343/devtools/browser/6df25bc1-6d75-49f4-b4fb-11627069c577
+1680430952504	Marionette	INFO	Stopped listening on port 3351
+Dynamically enable window occlusion 1
+1680431064776	geckodriver	INFO	Listening on 127.0.0.1:3540
+1680431067794	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "3541" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilePtaPNj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680431068155	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680431068161	Marionette	INFO	Listening on port 3552
+Read port: 3552
+WebDriver BiDi listening on ws://127.0.0.1:3541
+1680431068336	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilePtaPNj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:3541/devtools/browser/fc34d3a6-26b6-4b9b-bfb4-ee8e3552b2fd
+1680431130122	geckodriver	INFO	Listening on 127.0.0.1:3685
+1680431133128	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "3686" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileC9iTRe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680431133525	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680431133531	Marionette	INFO	Listening on port 3697
+Read port: 3697
+WebDriver BiDi listening on ws://127.0.0.1:3686
+1680431133665	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileC9iTRe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:3686/devtools/browser/df7cd04c-84bb-4ef8-a117-999af82c71c4
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=4d299fcc801bc8e6b4f049ab65f96b69dddf6e48-frpreducers&cluster=5&tag=common/personalization/saving/react/TripsDrawerWrapper, line 366: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YzZmA7a08v9f087fwqUDZorL-7TBHmPOgPW1cUS8ffQ.js line 2 > eval line 3022 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YzZmA7a08v9f087fwqUDZorL-7TBHmPOgPW1cUS8ffQ.js line 2 > eval line 3806 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YzZmA7a08v9f087fwqUDZorL-7TBHmPOgPW1cUS8ffQ.js line 2 > eval line 6284 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=4d299fcc801bc8e6b4f049ab65f96b69dddf6e48-frpreducers&cluster=5&tag=common/personalization/saving/react/TripsDrawerWrapper, line 366: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YzZmA7a08v9f087fwqUDZorL-7TBHmPOgPW1cUS8ffQ.js line 2 > eval line 4825 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YzZmA7a08v9f087fwqUDZorL-7TBHmPOgPW1cUS8ffQ.js line 2 > eval line 2707 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YzZmA7a08v9f087fwqUDZorL-7TBHmPOgPW1cUS8ffQ.js line 2 > eval line 2014 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1680431179994	Marionette	INFO	Stopped listening on port 3697
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1680431180265	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@sys.mjs:51
+destroy()@sys.mjs:207
+deleteSession()@sys.mjs:142
+stop()@sys.mjs:229
+1680805624903	geckodriver	INFO	Listening on 127.0.0.1:2473
+1680805627959	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2474" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileDWzsH7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680805628690	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680805628697	Marionette	INFO	Listening on port 2488
+Read port: 2488
+WebDriver BiDi listening on ws://127.0.0.1:2474
+1680805628950	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileDWzsH7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:2474/devtools/browser/230a9879-1b55-4944-8599-725fa37de036
+1680805643059	Marionette	INFO	Stopped listening on port 2488
+Dynamically enable window occlusion 1
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+console.error: "TelemetryScheduler.shutdown - Already shut down"
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1680806284251	geckodriver	INFO	Listening on 127.0.0.1:3556
+1680806287261	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "3557" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileNoy5R8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680806288552	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680806288564	Marionette	INFO	Listening on port 3574
+Read port: 3574
+WebDriver BiDi listening on ws://127.0.0.1:3557
+1680806288880	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileNoy5R8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:3557/devtools/browser/11e84437-beca-462e-a9cf-7f9f3d0e33bf
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.8015c07f0e3b52dafce0.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.8015c07f0e3b52dafce0.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.8015c07f0e3b52dafce0.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.8015c07f0e3b52dafce0.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.8015c07f0e3b52dafce0.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.8015c07f0e3b52dafce0.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.8015c07f0e3b52dafce0.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.8015c07f0e3b52dafce0.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.8015c07f0e3b52dafce0.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.8015c07f0e3b52dafce0.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.8015c07f0e3b52dafce0.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.8015c07f0e3b52dafce0.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.8015c07f0e3b52dafce0.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+1680806308206	Marionette	INFO	Stopped listening on port 3574
+Dynamically enable window occlusion 1
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+console.error: "TelemetryScheduler.shutdown - Already shut down"
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1680808467079	geckodriver	INFO	Listening on 127.0.0.1:6592
+1680808470091	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "6593" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilevCA2cq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680808470487	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680808470495	Marionette	INFO	Listening on port 6604
+Read port: 6604
+WebDriver BiDi listening on ws://127.0.0.1:6593
+1680808470631	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilevCA2cq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:6593/devtools/browser/c3f3a762-de7e-4d99-ba3a-3dac6ab32790
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=fa9bea197ddedaa6935e3ada6dc8643a4c3e9b80-frpreducers&cluster=5&tag=common/personalization/saving/react/TripsDrawerWrapper, line 367: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1qDM7jHzlwhnZd-s95CHH_k3xryNtTKIC4s2Es7tSnI.js line 2 > eval line 3446 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1680808525890	Marionette	INFO	Stopped listening on port 6604
+Dynamically enable window occlusion 1
+1680809086489	geckodriver	INFO	Listening on 127.0.0.1:7435
+1680809089526	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "7436" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilecyfdjQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680809089974	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680809089979	Marionette	INFO	Listening on port 7447
+WebDriver BiDi listening on ws://127.0.0.1:7436
+Read port: 7447
+1680809090236	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilecyfdjQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:7436/devtools/browser/378e6004-dd8b-4b26-9075-c70a41e99ba2
+1680809099487	Marionette	INFO	Stopped listening on port 7447
+Dynamically enable window occlusion 1
+1680809159936	geckodriver	INFO	Listening on 127.0.0.1:7634
+1680809163000	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "7635" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileZ7gjT4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680809163414	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680809163418	Marionette	INFO	Listening on port 7643
+Read port: 7643
+WebDriver BiDi listening on ws://127.0.0.1:7635
+1680809163568	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileZ7gjT4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:7635/devtools/browser/c639d651-d89f-4f54-ac2b-218d3179d13d
+1680809176974	Marionette	INFO	Stopped listening on port 7643
+Dynamically enable window occlusion 1
+1680809213795	geckodriver	INFO	Listening on 127.0.0.1:7791
+1680809216852	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "7792" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileSsBFZg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680809217205	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680809217210	Marionette	INFO	Listening on port 7803
+Read port: 7803
+WebDriver BiDi listening on ws://127.0.0.1:7792
+1680809217382	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileSsBFZg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:7792/devtools/browser/fe8bdb6f-40ae-41a5-a993-06d91969344e
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=fa9bea197ddedaa6935e3ada6dc8643a4c3e9b80-frpreducers&cluster=5&tag=common/personalization/saving/react/TripsDrawerWrapper, line 367: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1qDM7jHzlwhnZd-s95CHH_k3xryNtTKIC4s2Es7tSnI.js line 2 > eval line 2113 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1qDM7jHzlwhnZd-s95CHH_k3xryNtTKIC4s2Es7tSnI.js line 2 > eval line 6398 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1qDM7jHzlwhnZd-s95CHH_k3xryNtTKIC4s2Es7tSnI.js line 2 > eval line 513 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1680809273859	Marionette	INFO	Stopped listening on port 7803
+Dynamically enable window occlusion 1
+1680809457986	geckodriver	INFO	Listening on 127.0.0.1:8255
+1680809461030	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "8256" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile6E1wQ0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680809461416	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680809461421	Marionette	INFO	Listening on port 8267
+Read port: 8267
+WebDriver BiDi listening on ws://127.0.0.1:8256
+1680809461568	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile6E1wQ0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:8256/devtools/browser/54611105-cbc9-49d5-a13d-524a4add7191
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=fa9bea197ddedaa6935e3ada6dc8643a4c3e9b80-frpreducers&cluster=5&tag=common/personalization/saving/react/TripsDrawerWrapper, line 367: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1qDM7jHzlwhnZd-s95CHH_k3xryNtTKIC4s2Es7tSnI.js line 2 > eval line 3178 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1680809518762	Marionette	INFO	Stopped listening on port 8267
+Dynamically enable window occlusion 1
+1680809705162	geckodriver	INFO	Listening on 127.0.0.1:8647
+1680809707862	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "8648" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile26jkTN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680809708266	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680809708272	Marionette	INFO	Listening on port 8658
+Read port: 8658
+WebDriver BiDi listening on ws://127.0.0.1:8648
+1680809708423	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile26jkTN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:8648/devtools/browser/e342d5fa-18d4-4401-965a-90e4f3a135e3
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=fa9bea197ddedaa6935e3ada6dc8643a4c3e9b80-frpreducers&cluster=5&tag=common/personalization/saving/react/TripsDrawerWrapper, line 367: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1qDM7jHzlwhnZd-s95CHH_k3xryNtTKIC4s2Es7tSnI.js line 2 > eval line 1042 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1qDM7jHzlwhnZd-s95CHH_k3xryNtTKIC4s2Es7tSnI.js line 2 > eval line 4858 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1680809757276	geckodriver	INFO	Listening on 127.0.0.1:8839
+1680809760333	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "8840" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileq1tjt5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680809760772	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680809760777	Marionette	INFO	Listening on port 8851
+Read port: 8851
+WebDriver BiDi listening on ws://127.0.0.1:8840
+1680809760921	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileq1tjt5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:8840/devtools/browser/b2dcd2c8-7856-45b0-bc92-e019acbdb4dc
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=fa9bea197ddedaa6935e3ada6dc8643a4c3e9b80-frpreducers&cluster=5&tag=common/personalization/saving/react/TripsDrawerWrapper, line 367: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1qDM7jHzlwhnZd-s95CHH_k3xryNtTKIC4s2Es7tSnI.js line 2 > eval line 3360 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1qDM7jHzlwhnZd-s95CHH_k3xryNtTKIC4s2Es7tSnI.js line 2 > eval line 2204 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1qDM7jHzlwhnZd-s95CHH_k3xryNtTKIC4s2Es7tSnI.js line 2 > eval line 1615 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1qDM7jHzlwhnZd-s95CHH_k3xryNtTKIC4s2Es7tSnI.js line 2 > eval line 6119 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1680809827529	Marionette	INFO	Stopped listening on port 8851
+Dynamically enable window occlusion 1
+1680810379237	geckodriver	INFO	Listening on 127.0.0.1:1780
+1680810382282	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1781" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileaFS93l"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680810382753	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680810382758	Marionette	INFO	Listening on port 1793
+Read port: 1793
+WebDriver BiDi listening on ws://127.0.0.1:1781
+1680810382913	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileaFS93l\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1781/devtools/browser/19286ec5-b924-4c8e-95ef-aefef7fa1fe7
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=fa9bea197ddedaa6935e3ada6dc8643a4c3e9b80-frpreducers&cluster=5&tag=common/personalization/saving/react/TripsDrawerWrapper, line 367: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1qDM7jHzlwhnZd-s95CHH_k3xryNtTKIC4s2Es7tSnI.js line 2 > eval line 3358 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1qDM7jHzlwhnZd-s95CHH_k3xryNtTKIC4s2Es7tSnI.js line 2 > eval line 3414 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1qDM7jHzlwhnZd-s95CHH_k3xryNtTKIC4s2Es7tSnI.js line 2 > eval line 1861 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1680810443907	Marionette	INFO	Stopped listening on port 1793
+Dynamically enable window occlusion 1
+1680810487666	geckodriver	INFO	Listening on 127.0.0.1:1184
+1680810490350	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1185" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile9WDj58"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680810490718	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680810490723	Marionette	INFO	Listening on port 1201
+Read port: 1201
+WebDriver BiDi listening on ws://127.0.0.1:1185
+1680810490871	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile9WDj58\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1185/devtools/browser/09b34e66-2dfc-42f4-b309-964857f77128
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=fa9bea197ddedaa6935e3ada6dc8643a4c3e9b80-frpreducers&cluster=5&tag=common/personalization/saving/react/TripsDrawerWrapper, line 367: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1qDM7jHzlwhnZd-s95CHH_k3xryNtTKIC4s2Es7tSnI.js line 2 > eval line 963 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1qDM7jHzlwhnZd-s95CHH_k3xryNtTKIC4s2Es7tSnI.js line 2 > eval line 5777 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1qDM7jHzlwhnZd-s95CHH_k3xryNtTKIC4s2Es7tSnI.js line 2 > eval line 7491 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1680810525292	Marionette	INFO	Stopped listening on port 1201
+Dynamically enable window occlusion 1
+1680810708453	geckodriver	INFO	Listening on 127.0.0.1:29456
+1680810711539	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "29457" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileX8nxGv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680810712224	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680810712231	Marionette	INFO	Listening on port 29468
+Read port: 29468
+WebDriver BiDi listening on ws://127.0.0.1:29457
+1680810712419	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileX8nxGv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:29457/devtools/browser/d3e1c403-2284-4cf9-8ebd-86af833454de
+1680810756331	geckodriver	INFO	Listening on 127.0.0.1:29577
+1680810759387	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "29578" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileAbXPJb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680810759763	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680810759769	Marionette	INFO	Listening on port 29590
+Read port: 29590
+WebDriver BiDi listening on ws://127.0.0.1:29578
+1680810759943	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileAbXPJb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:29578/devtools/browser/da8b5261-870f-43e6-8c4a-da7ea26c3b88
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=fa9bea197ddedaa6935e3ada6dc8643a4c3e9b80-frpreducers&cluster=5&tag=common/personalization/saving/react/TripsDrawerWrapper, line 367: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1qDM7jHzlwhnZd-s95CHH_k3xryNtTKIC4s2Es7tSnI.js line 2 > eval line 1716 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1qDM7jHzlwhnZd-s95CHH_k3xryNtTKIC4s2Es7tSnI.js line 2 > eval line 4126 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1680810794273	Marionette	INFO	Stopped listening on port 29590
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1680810909684	geckodriver	INFO	Listening on 127.0.0.1:33550
+1680810912762	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "33551" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileFNfhDr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680810913182	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680810913187	Marionette	INFO	Listening on port 33559
+Read port: 33559
+WebDriver BiDi listening on ws://127.0.0.1:33551
+1680810913336	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileFNfhDr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33551/devtools/browser/f8397daa-bf9a-4422-bc20-598fa3942d5c
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=fa9bea197ddedaa6935e3ada6dc8643a4c3e9b80-frpreducers&cluster=5&tag=common/personalization/saving/react/TripsDrawerWrapper, line 367: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1qDM7jHzlwhnZd-s95CHH_k3xryNtTKIC4s2Es7tSnI.js line 2 > eval line 4442 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1680810948686	Marionette	INFO	Stopped listening on port 33559
+Dynamically enable window occlusion 1
+1680811047018	geckodriver	INFO	Listening on 127.0.0.1:33836
+1680811050085	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "33837" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileY9TSxW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680811050505	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680811050510	Marionette	INFO	Listening on port 33849
+Read port: 33849
+WebDriver BiDi listening on ws://127.0.0.1:33837
+1680811050656	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileY9TSxW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33837/devtools/browser/1228bd48-3881-4bf6-a7d6-d7905e957534
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=fa9bea197ddedaa6935e3ada6dc8643a4c3e9b80-frpreducers&cluster=5&tag=common/personalization/saving/react/TripsDrawerWrapper, line 367: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1qDM7jHzlwhnZd-s95CHH_k3xryNtTKIC4s2Es7tSnI.js line 2 > eval line 6364 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1680811086550	Marionette	INFO	Stopped listening on port 33849
+Dynamically enable window occlusion 1

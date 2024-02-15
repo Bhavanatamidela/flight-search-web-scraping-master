@@ -1,0 +1,993 @@
+1677606118341	geckodriver	INFO	Listening on 127.0.0.1:8104
+1677606121420	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "8105" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilen0KceE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677606124331	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677606124344	Marionette	INFO	Listening on port 8123
+Read port: 8123
+WebDriver BiDi listening on ws://127.0.0.1:8105
+1677606124816	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilen0KceE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:8105/devtools/browser/ae81f8d4-ba7a-465b-81e5-91929179c1bf
+[Parent 19396, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+1677606151206	Marionette	INFO	Stopped listening on port 8123
+Dynamically enable window occlusion 1
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1677606978931	geckodriver	INFO	Listening on 127.0.0.1:9498
+1677606981998	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "9499" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileY3A26Y"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677606983191	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677606983205	Marionette	INFO	Listening on port 9513
+Read port: 9513
+WebDriver BiDi listening on ws://127.0.0.1:9499
+1677606983591	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileY3A26Y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:9499/devtools/browser/6935ca5f-2052-45f4-955b-18596ff805bd
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://www.expedia.ie/Flight-Information?journeyContinuationId=AQrgAgqrAnY1LXNvcy0yMWQwMWI2OWE4MDEyNGZjNTk3NDY4MzliMTc5MjkwNS0yNy0xfjIuU35BUW9DQ0Q4U0J3aW9YQkFCR0E4b0FsZ0JjQUV-QVFxR0FRb3FDTVdXQVJJRE5UUTFHQXdnNHcwb3YtYW1BakRJNktZQ09GSkFBRmdCYWdwRlEwOUdURmhRVEZWVENpb0l4WllCRWdJNU54ampEU0RGY0NpSDhxWUNNSnoxcGdJNFVrQUJXQUZxQ2tWRFQwWk1XRkJNVlZNS0xBakJ0QUVTQkRFek9URVl4WEFneGdNb3lQZW1BakNKLUtZQ09FeEFBVmdCYWdwRlEwOUdURmhRVEZWVEVnb0lBUkFCR0FFcUFrVkxHQUVpQkFnQkVBRW9BaWdFS0FZd0FRERSuR-F6GJVAGiAIARIPCghQVDIwSDE1TRIDRFhCEgsKBFBUNUgSA0ZDTyoFEgMKATISJwoWCgoyMDIzLTAzLTA5EgNNQUEaA0dPQRIHEgVDT0FDSBoCEAEgASABMgsI____________AQ%3D%3D, line 5: Error: ES Modules may not assign module.exports or exports.*, Use ESM export syntax, instead: 51447
+1677607035097	Marionette	INFO	Stopped listening on port 9513
+Dynamically enable window occlusion 1
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1677607333860	geckodriver	INFO	Listening on 127.0.0.1:10124
+1677607336947	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "10125" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilee8pSWR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677607337967	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677607337979	Marionette	INFO	Listening on port 10137
+Read port: 10137
+WebDriver BiDi listening on ws://127.0.0.1:10125
+1677607338410	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilee8pSWR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:10125/devtools/browser/44ff40ae-9564-4358-bc0f-c9138afb2a5b
+JavaScript error: https://cmp.osano.com/, line 52: NS_ERROR_FAILURE: 
+JavaScript error: , line 0: uncaught exception: Could not clear consent from root domain.
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+1677607450916	Marionette	INFO	Stopped listening on port 10137
+Dynamically enable window occlusion 1
+1677677013558	geckodriver	INFO	Listening on 127.0.0.1:2081
+1677677016667	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2082" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileH0jjC6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677677017294	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677677017302	Marionette	INFO	Listening on port 2094
+Read port: 2094
+WebDriver BiDi listening on ws://127.0.0.1:2082
+1677677017509	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileH0jjC6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:2082/devtools/browser/1408562b-6f08-4f3d-a032-e913c7cc02b5
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/app.6dc8e3a1b79fd653ddcd.js, line 1: TypeError: n is undefined
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+1677677043039	Marionette	INFO	Stopped listening on port 2094
+Dynamically enable window occlusion 1
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1677677316411	geckodriver	INFO	Listening on 127.0.0.1:2534
+1677677319473	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2535" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileNnLqMV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677677320498	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677677320509	Marionette	INFO	Listening on port 2549
+Read port: 2549
+WebDriver BiDi listening on ws://127.0.0.1:2535
+1677677320803	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileNnLqMV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:2535/devtools/browser/4f1278be-d4cd-4495-9f91-a07a3d41d8c3
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://www.expedia.ie/Flight-Information?journeyContinuationId=AQrDAgqNAnY1LXNvcy02OTdkYWEyODAxMTM5ZDk2MTE4ZGViZWI3Yjk1OTgzNS00Ny0xfjIuU35BUW9DQ0Q4U0J3aW9YQkFCR0E4b0FsZ0JjQUF-QVFweENpRUl4NHdCRWdJMU14Z01JSUU0S0p2M3BnSXcyX21tQWpoV1FBQllBV29DVWxNS0pBalVsZ0VTQXpjM054aUJPQ0RJbkFFb3lQeW1BakRSX3FZQ09GUkFBVmdCYWdKU1V3b21DTlNXQVJJRU1UazRPUmpJbkFFZzY0a0JLTmpfcGdJdzBvR25BamhVUUFGWUFXb0NVbE1TQ2dnQkVBRVlBU29DVkVzWUFTSUVDQUVRQVNnQ0tBTW9CREFCEWZmZmZm1n5AGiEIARINCgZQVDZINU0SA0JBSBIOCgdQVDJIMTVNEgNJU1QqBRIDCgExEicKFgoKMjAyMy0wMy0xMBIDTUFBGgNMT04SBxIFQ09BQ0gaAhABIAEgATILCP___________wE%3D, line 5: Error: ES Modules may not assign module.exports or exports.*, Use ESM export syntax, instead: 51447
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+1677677430695	Marionette	INFO	Stopped listening on port 2549
+Dynamically enable window occlusion 1
+1677677839134	geckodriver	INFO	Listening on 127.0.0.1:3267
+1677677842252	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "3268" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilesJvhOx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677677842953	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677677842961	Marionette	INFO	Listening on port 3282
+Read port: 3282
+WebDriver BiDi listening on ws://127.0.0.1:3268
+1677677843198	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilesJvhOx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:3268/devtools/browser/e17811f9-f001-42ae-9553-4b16b27a0a25
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+1677678369663	geckodriver	INFO	Listening on 127.0.0.1:3988
+1677678372722	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "3989" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileo1Q65j"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677678373171	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677678373177	Marionette	INFO	Listening on port 4002
+Read port: 4002
+WebDriver BiDi listening on ws://127.0.0.1:3989
+1677678373379	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileo1Q65j\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:3989/devtools/browser/1037399e-7394-4c78-9ccf-091a21966cfd
+1677680741247	geckodriver	INFO	Listening on 127.0.0.1:24491
+1677680744359	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "24492" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileEgmr28"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677680744785	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677680744790	Marionette	INFO	Listening on port 24503
+Read port: 24503
+WebDriver BiDi listening on ws://127.0.0.1:24492
+1677680744965	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileEgmr28\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:24492/devtools/browser/28b5018f-019f-4179-aa7a-060c65f7d9e4
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://www.expedia.ie/Flight-Information?journeyContinuationId=AQrYAgqjAnY1LXNvcy02NjQwNzk4N2NjOWUxZGI0MzNiYjQxYjVlNjk5YjE3MS0zLTF-Mi5TfkFRb0NDRDhTQndpb1hCQUJHQThvQWxnQmNBQX5BUXFCQVFvcUNNR0NBUklFTkRrM09SanNvZ0VnbzdFQktJVzVxZ0l3NGJtcUFqaENRQUJZQVdvR1FrRlRTVU5DQ2lvSXdZSUJFZ1F4TURNNUdLT3hBU0NMdUFFbzJycXFBakNrdktvQ09FSkFBVmdCYWdaQ1FWTkpRMElLSndqQmdnRVNBamN6R0l1NEFTQ1NIaWpRdjZvQ01QSEdxZ0k0UWtBQldBRnFCa0pCVTBsRFFoSUtDQUVRQVJnQktnSkJRUmdCSWdRSUFSQUJLQUlvQXlnRU1BRRHNzMzMzN6XQBogCAESDQoGUFQySDFNEgNERlcSDQoGUFQ3SDhNEgNMQVgqBRIDCgExEicKFgoKMjAyMy0wNC0xORIDTUxVGgNTWUQSBxIFQ09BQ0gaAhABIAEgATILCP___________wE%3D, line 5: Error: ES Modules may not assign module.exports or exports.*, Use ESM export syntax, instead: 51447
+1677681016471	geckodriver	INFO	Listening on 127.0.0.1:24953
+1677681019576	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "24954" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile9hj0JS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677681020138	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677681020146	Marionette	INFO	Listening on port 24965
+Read port: 24965
+WebDriver BiDi listening on ws://127.0.0.1:24954
+1677681020348	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile9hj0JS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:24954/devtools/browser/d3a6a510-0d6d-4730-95c9-318e072548c1
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://www.expedia.ie/Flight-Information?journeyContinuationId=AQqLAgrkAXY1LXNvcy0zMGJiMTk3ZGI5NDEwOTZhNjRiZDI1YzViMzkyN2FlMi0zMi0xfjIuU35BUW9DQ0Q4U0J3aW9YQkFCR0E4b0FsZ0JjQUV-QVFwU0NpY0l4WllCRWdNMU5EY1lEQ0RqRFNpWm1hY0NNS3licHdJNFMwQUFXQUZxQjBWRFQwWk1SVmdLSndqRmxnRVNBalkxR09NTklQSnNLT1NlcHdJd3VxS25BamhMUUFGWUFXb0hSVU5QUmt4RldCSUtDQUVRQVJnQktnSkZTeGdCSWdRSUFSQUJLQUlvQkNnR01BRREAAAAAAASDQBoSCAESDgoHUFQ3SDIwTRIDRFhCKgUSAwoBMhInChYKCjIwMjMtMDMtMTMSA01BQRoDTE9OEgcSBUNPQUNIGgIQASABIAEyCwj___________8B, line 5: Error: ES Modules may not assign module.exports or exports.*, Use ESM export syntax, instead: 51447
+1677681129877	Marionette	INFO	Stopped listening on port 24965
+Dynamically enable window occlusion 1
+1677681167895	geckodriver	INFO	Listening on 127.0.0.1:25210
+1677681170999	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "25211" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilexJgjuU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677681171522	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677681171528	Marionette	INFO	Listening on port 25223
+Read port: 25223
+WebDriver BiDi listening on ws://127.0.0.1:25211
+1677681171695	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilexJgjuU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:25211/devtools/browser/e9314e50-e2e6-4cac-9c2e-d443358aa31e
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+1677681559952	geckodriver	INFO	Listening on 127.0.0.1:25763
+1677681563052	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "25764" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilekTBwNh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677681563556	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677681563562	Marionette	INFO	Listening on port 25775
+Read port: 25775
+WebDriver BiDi listening on ws://127.0.0.1:25764
+1677681563728	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilekTBwNh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:25764/devtools/browser/d4125bb0-625b-46d9-94c7-d140e9b795b9
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+1677684487682	geckodriver	INFO	Listening on 127.0.0.1:29746
+1677684490739	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "29747" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileSZZYMt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677684491486	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677684491495	Marionette	INFO	Listening on port 29759
+Read port: 29759
+WebDriver BiDi listening on ws://127.0.0.1:29747
+1677684491709	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileSZZYMt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:29747/devtools/browser/d29cef45-5aeb-4cf1-ad0f-1561ee85106d
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+1677684584493	geckodriver	INFO	Listening on 127.0.0.1:29946
+1677684587580	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "29947" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile0Jw2G4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677684588201	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677684588211	Marionette	INFO	Listening on port 29955
+Read port: 29955
+WebDriver BiDi listening on ws://127.0.0.1:29947
+1677684588445	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile0Jw2G4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:29947/devtools/browser/15699207-6a61-4631-adef-a652f0a9a794
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+1677684767930	geckodriver	INFO	Listening on 127.0.0.1:30246
+1677684771054	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "30247" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileC9f5yM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677684771526	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677684771534	Marionette	INFO	Listening on port 30258
+Read port: 30258
+WebDriver BiDi listening on ws://127.0.0.1:30247
+1677684771702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileC9f5yM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:30247/devtools/browser/3a50f5aa-7789-41d3-838a-293fd41b7482
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+1677685385806	geckodriver	INFO	Listening on 127.0.0.1:31152
+1677685388913	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "31153" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileuTurKp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677685389449	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677685389455	Marionette	INFO	Listening on port 31164
+Read port: 31164
+WebDriver BiDi listening on ws://127.0.0.1:31153
+1677685389656	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileuTurKp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:31153/devtools/browser/2ca7ddc2-2e35-42c1-829f-94b0e8bc8ff0
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+1677685469757	geckodriver	INFO	Listening on 127.0.0.1:31338
+1677685472836	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "31339" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileloxXvo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677685473305	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677685473311	Marionette	INFO	Listening on port 31351
+Read port: 31351
+WebDriver BiDi listening on ws://127.0.0.1:31339
+1677685473480	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileloxXvo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:31339/devtools/browser/1e65f139-b179-479c-a349-4ade335db479
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+1677685851300	geckodriver	INFO	Listening on 127.0.0.1:31884
+1677685854380	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "31885" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileVZLpVk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677685854819	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677685854825	Marionette	INFO	Listening on port 31896
+WebDriver BiDi listening on ws://127.0.0.1:31885
+Read port: 31896
+1677685855118	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileVZLpVk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:31885/devtools/browser/498f60be-c987-4207-9090-dbf4b6947c47
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+1677686408499	geckodriver	INFO	Listening on 127.0.0.1:32756
+1677686411553	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "32757" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileo1klSY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677686412355	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677686412368	Marionette	INFO	Listening on port 32770
+Read port: 32770
+WebDriver BiDi listening on ws://127.0.0.1:32757
+1677686412662	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileo1klSY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:32757/devtools/browser/08db3a30-7cf5-4249-9414-dbe9d931cc1b
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+1677687121811	geckodriver	INFO	Listening on 127.0.0.1:33854
+1677687124912	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "33855" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileMHC2Ws"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677687125887	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677687125901	Marionette	INFO	Listening on port 33868
+Read port: 33868
+WebDriver BiDi listening on ws://127.0.0.1:33855
+1677687126223	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileMHC2Ws\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33855/devtools/browser/6585fefd-1f8a-4871-9073-799158a675d4
+1677687738977	Marionette	INFO	Stopped listening on port 33868
+Dynamically enable window occlusion 1
+1677687777687	geckodriver	INFO	Listening on 127.0.0.1:34787
+1677687780755	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "34788" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile4UJmUT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677687781564	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677687781577	Marionette	INFO	Listening on port 34807
+Read port: 34807
+WebDriver BiDi listening on ws://127.0.0.1:34788
+1677687781849	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile4UJmUT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34788/devtools/browser/2a3a5d35-dcd2-4cae-9150-071976f63f83
+1677687995864	geckodriver	INFO	Listening on 127.0.0.1:35185
+1677687998937	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "35186" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileqyokyy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677687999762	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677687999774	Marionette	INFO	Listening on port 35197
+Read port: 35197
+WebDriver BiDi listening on ws://127.0.0.1:35186
+1677688000126	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileqyokyy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35186/devtools/browser/1d3532b4-545e-4ebd-80b7-b60d41507c66
+1677688027064	Marionette	INFO	Stopped listening on port 35197
+Dynamically enable window occlusion 1
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+aiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+[Parent 4848, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+1677688325421	geckodriver	INFO	Listening on 127.0.0.1:35794
+1677688328455	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "35795" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilezEQKUS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677688329234	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677688329246	Marionette	INFO	Listening on port 35806
+Read port: 35806
+WebDriver BiDi listening on ws://127.0.0.1:35795
+1677688329514	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilezEQKUS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35795/devtools/browser/5cdedb99-6077-4df0-82e7-60d80e16744a
+1677688333538	geckodriver	INFO	Listening on 127.0.0.1:35825
+1677688336576	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "35826" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile6z8E0y"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677688337314	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677688337326	Marionette	INFO	Listening on port 35846
+Read port: 35846
+WebDriver BiDi listening on ws://127.0.0.1:35826
+1677688337608	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile6z8E0y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35826/devtools/browser/b9085bae-c7a8-4fe2-b890-49dba2c241d3
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+1677734668766	geckodriver	INFO	Listening on 127.0.0.1:1566
+1677734671823	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1567" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile6ozwyC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677734672461	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677734672470	Marionette	INFO	Listening on port 1585
+Read port: 1585
+WebDriver BiDi listening on ws://127.0.0.1:1567
+1677734672684	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile6ozwyC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1567/devtools/browser/db6b0990-0d96-4dc9-b102-3788371ac52d
+1677734675535	geckodriver	INFO	Listening on 127.0.0.1:1600
+1677734678558	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "1601" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilekvkMjd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677734679063	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677734679071	Marionette	INFO	Listening on port 1634
+Read port: 1634
+WebDriver BiDi listening on ws://127.0.0.1:1601
+1677734679284	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilekvkMjd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1601/devtools/browser/19851ab1-05d9-41ed-a481-e04642810414
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+1677734896140	geckodriver	INFO	Listening on 127.0.0.1:2141
+1677734899495	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2142" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile2G2ztx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677734900557	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677734900571	Marionette	INFO	Listening on port 2158
+Read port: 2158
+WebDriver BiDi listening on ws://127.0.0.1:2142
+1677734900890	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile2G2ztx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:2142/devtools/browser/73440e25-9650-4d34-8fcf-c353bbf12b78
+1677734905394	geckodriver	INFO	Listening on 127.0.0.1:2179
+1677734908675	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "2180" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilenphQJc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677734909777	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677734909791	Marionette	INFO	Listening on port 2199
+Read port: 2199
+WebDriver BiDi listening on ws://127.0.0.1:2180
+1677734910167	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilenphQJc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:2180/devtools/browser/b4ff029d-d569-44ab-be0c-f96f3c28a882
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/flights-shopping-pwa/pap.5bc6a3e08e679555c3dd.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+1680807112441	geckodriver	INFO	Listening on 127.0.0.1:4628
+1680807115406	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "4629" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilelbCXZb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680807115968	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680807115973	Marionette	INFO	Listening on port 4641
+Read port: 4641
+WebDriver BiDi listening on ws://127.0.0.1:4629
+1680807116232	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilelbCXZb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:4629/devtools/browser/91f612d3-5489-461d-aa97-f5cd4c42d68c
+JavaScript warning: https://www.cleartrip.com/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://fastui.cltpstatic.com/raw/upload/ct-air-desktop-pwa-prod/en/static/js/FlightsResults.443b427a.chunk.js, line 1: TypeError: n.data is undefined
+1680807134160	Marionette	INFO	Stopped listening on port 4641
+Dynamically enable window occlusion 1
+1680808134093	geckodriver	INFO	Listening on 127.0.0.1:6051
+1680808137142	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "6052" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileLdbEEN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680808137676	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680808137683	Marionette	INFO	Listening on port 6064
+Read port: 6064
+WebDriver BiDi listening on ws://127.0.0.1:6052
+1680808137845	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileLdbEEN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:6052/devtools/browser/b297b279-b2ea-4512-89c1-f95c4d05451e
+1680808192523	Marionette	INFO	Stopped listening on port 6064
+Dynamically enable window occlusion 1
+1680808304538	geckodriver	INFO	Listening on 127.0.0.1:6327
+1680808307598	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "6328" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileHfilOc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680808307976	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680808307981	Marionette	INFO	Listening on port 6339
+Read port: 6339
+WebDriver BiDi listening on ws://127.0.0.1:6328
+1680808308115	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileHfilOc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:6328/devtools/browser/0c1ae4ef-6383-46b9-91e8-b79957b26681
+1680808362404	Marionette	INFO	Stopped listening on port 6339
+Dynamically enable window occlusion 1
